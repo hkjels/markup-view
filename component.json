@@ -1,0 +1,10 @@
+{
+  "name": "markup-view",
+  "scripts": ["index.js"],
+  "styles": ["style.css"],
+  "dependencies": {
+    "component/domify": "*",
+    "hkjels/typeplate.github.io": "*",
+    "visionmedia/superagent": "*"
+  }
+}
